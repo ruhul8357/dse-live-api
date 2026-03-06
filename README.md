@@ -1,3 +1,5 @@
+#Forked from https://github.com/faysal515/bd-stock-api#
+
 # Bangladesh Stock Market Data API - 
 
 This is an unofficial api which crawls data from dsebd. Please report issue if data not coming in. I'll try to lookup.
